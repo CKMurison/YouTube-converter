@@ -24,8 +24,11 @@ This is a simple Python script for downloading YouTube videos using the PyTube l
 
 3. **Run the script:**
 
+    Depending on your os
+
     ```bash
     python bot.py
+    python3 bot.py
     ```
 
 ## Usage
