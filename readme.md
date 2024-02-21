@@ -37,7 +37,6 @@ This is a simple Python script for downloading YouTube videos using the PyTube l
 ## Troubleshooting
 
 - If you encounter any issues, make sure you have Python installed and the necessary dependencies are installed using the provided requirements file.
+- If you encounter this message "Python[41924:5877161] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES." feel free to ignore it!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Happy downloading.
